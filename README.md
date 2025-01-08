@@ -1,2 +1,2 @@
 # matrixMultiplication-MatrisCarpma
-iki matrisin çarpımını gerçekleştiren fonksiyon - product function of two matrices
+iki matrisin çarpımını gerçekleştiren fonksiyon - function for multiplication of two matrices
